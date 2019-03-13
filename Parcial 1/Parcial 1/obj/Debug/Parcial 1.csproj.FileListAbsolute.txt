@@ -1,0 +1,6 @@
+c:\users\david ocana\documents\visual studio 2015\Projects\Parcial 1\Parcial 1\bin\Debug\Parcial 1.exe.config
+c:\users\david ocana\documents\visual studio 2015\Projects\Parcial 1\Parcial 1\bin\Debug\Parcial 1.exe
+c:\users\david ocana\documents\visual studio 2015\Projects\Parcial 1\Parcial 1\bin\Debug\Parcial 1.pdb
+c:\users\david ocana\documents\visual studio 2015\Projects\Parcial 1\Parcial 1\obj\Debug\Parcial 1.csprojResolveAssemblyReference.cache
+c:\users\david ocana\documents\visual studio 2015\Projects\Parcial 1\Parcial 1\obj\Debug\Parcial 1.exe
+c:\users\david ocana\documents\visual studio 2015\Projects\Parcial 1\Parcial 1\obj\Debug\Parcial 1.pdb
